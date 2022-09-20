@@ -1,0 +1,54 @@
+GET https://uniandes.hcmifactum.com/rest/resource/academic_practice/54360
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.8,es-ES;q=0.5,es;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://uniandes.hcmifactum.com/
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJpcCI6IjE1Ny4yNTMuNDQuNzUiLCJleHBpcmF0aW9uLWRhdGUiOiJXZWQsIDIxIFNlcCAyMDIyIDE2OjQxOjI3ICswMDAwIiwidXNlcm5hbWUiOiJkLmdyYW5hZGFtQHVuaWFuZGVzLmVkdS5jbyJ9.0zLR4RhdLZJUQpEMLuZ7QcGAgzbd63Kaz6CYPLmJXUU
+DNT: 1
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+TE: trailers
+
+<> 2022-09-20T114719.403.html
+
+###
+
+GET https://uniandes.hcmifactum.com/rest/resource/academic_practice/52863
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.8,es-ES;q=0.5,es;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://uniandes.hcmifactum.com/
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJpcCI6IjE1Ny4yNTMuNDQuNzUiLCJleHBpcmF0aW9uLWRhdGUiOiJXZWQsIDIxIFNlcCAyMDIyIDE2OjQxOjI3ICswMDAwIiwidXNlcm5hbWUiOiJkLmdyYW5hZGFtQHVuaWFuZGVzLmVkdS5jbyJ9.0zLR4RhdLZJUQpEMLuZ7QcGAgzbd63Kaz6CYPLmJXUU
+DNT: 1
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+TE: trailers
+
+<> 2022-09-20T114617.200.json
+
+###
+
+GET https://uniandes.hcmifactum.com/rest/resource/academic_practice/54360
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.8,es-ES;q=0.5,es;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://uniandes.hcmifactum.com/
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJpcCI6IjE1Ny4yNTMuNDQuNzUiLCJleHBpcmF0aW9uLWRhdGUiOiJXZWQsIDIxIFNlcCAyMDIyIDE2OjQxOjI3ICswMDAwIiwidXNlcm5hbWUiOiJkLmdyYW5hZGFtQHVuaWFuZGVzLmVkdS5jbyJ9.0zLR4RhdLZJUQpEMLuZ7QcGAgzbd63Kaz6CYPLmJXUU
+DNT: 1
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+TE: trailers
+
+<> 2022-09-20T114607.403.html
+
+###
+

@@ -1,0 +1,1148 @@
+{
+  "type": "AcademicPracticeDto",
+  "isPaid": false,
+  "docRequired": false,
+  "companyNameIsConfidentialityAP": false,
+  "salaryRangeIsConfidentialityAP": false,
+  "isPsychology": false,
+  "disability": false,
+  "opportunity": {
+    "type": "academic_practice",
+    "id": 52863,
+    "company": {
+      "id": 5767,
+      "tradeName": "HABI",
+      "businessName": "INVERSIONES MCN S.A.S.",
+      "identificationType": {
+        "id": 52456,
+        "value": "NIT",
+        "valueEn": null,
+        "valueForCalculations": null,
+        "valueForReports": "1",
+        "description": null,
+        "status": "ACTIVE",
+        "parentId": null
+      },
+      "identificationNumber": "9013038241",
+      "address": "cra 11 b no.99-25",
+      "phoneNumber": "3162323937",
+      "sector": {
+        "id": 53847,
+        "value": "Privado",
+        "valueEn": null,
+        "valueForCalculations": null,
+        "valueForReports": null,
+        "description": null,
+        "status": "ACTIVE",
+        "parentId": null
+      },
+      "businessSector": {
+        "id": 52069,
+        "value": "Desarrollo de sistemas informáticos (planificación, análisis, diseño, programación, pruebas), consultoría informática y actividades relacionadas",
+        "valueEn": "Computer programming, consultancy and related activities",
+        "valueForCalculations": null,
+        "valueForReports": null,
+        "description": null,
+        "status": "ACTIVE",
+        "parentId": null
+      },
+      "sniesSector": null,
+      "size": {
+        "id": 54541,
+        "value": "Superior a 200 trabajadores",
+        "valueEn": null,
+        "valueForCalculations": null,
+        "valueForReports": null,
+        "description": null,
+        "status": "ACTIVE",
+        "parentId": null
+      },
+      "resourcesType": null,
+      "ciiuCode": "6810",
+      "country": {
+        "id": 13,
+        "name": "Colombia",
+        "sortName": "COL",
+        "isoAlpha2": null,
+        "isoNumeric": null
+      },
+      "city": {
+        "id": 103,
+        "name": "Bogota D.c.",
+        "state": {
+          "id": 49,
+          "name": "Bogota D.c.",
+          "dianCode": "11"
+        },
+        "dianCode": "11001"
+      },
+      "description": "Start-UP proptech que se dedica a comprar apartamentos a precio de descuento de forma inteligente y",
+      "logo": null,
+      "web": null,
+      "dominio": "@habi.co",
+      "linkedin": null,
+      "facebook": null,
+      "twitter": null,
+      "authorizeLogoUsage": false,
+      "canCreateOffer": true,
+      "wantPracticeAggrement": false,
+      "arl": null,
+      "chamberCommerceCert": {
+        "id": 178293,
+        "name": "CAMARA DE COMERCIO MCN 22 OCTUBRE.pdf",
+        "contentType": "application/pdf",
+        "filepath": "company/new_company1573219466858/document/CAMARA_DE_COMERCIO_MCN_22_OCTUBRE_20191108_132704-164.pdf",
+        "status": "ACTIVE",
+        "downloaded": true,
+        "main": false,
+        "lang": "ES",
+        "dateCreation": 1573219625000,
+        "userCreator": "",
+        "dateUpdate": 1625678314000,
+        "userUpdater": "empresasctp@uniandes.edu.co"
+      },
+      "rut": null,
+      "isAgencyHeadHunter": false,
+      "agencyHeadHunterCert": null,
+      "lrFirstname": null,
+      "lrLastname": null,
+      "lrIdentificationType": null,
+      "lrIdentification": null,
+      "lrEmail": null,
+      "repsCode": null,
+      "conacesAggCode": null,
+      "conacesAggStartDate": null,
+      "conacesAggEndDate": null,
+      "conacesQuota": "0",
+      "status": "ACTIVE",
+      "userCreator": null,
+      "dateCreation": 1573219914000,
+      "userUpdated": "empresasctp@uniandes.edu.co",
+      "dateUpdate": 1658163245000,
+      "offices": [],
+      "ciiuItem": null
+    },
+    "closingOfferDate": 1666501199000,
+    "jobTitle": "Practicante Data - Data Engineer",
+    "programs": [
+      {
+        "id": 141,
+        "code": "IMEC",
+        "name": "INGENIERÍA MECÁNICA",
+        "level": "PR",
+        "faculties": [
+          {
+            "program_faculty_id": 533,
+            "faculty": {
+              "faculty_id": 16,
+              "code": "INGE",
+              "name": "INGENIERÍA",
+              "authorizedSigner": null,
+              "identificationTypeSigner": null,
+              "identificationSigner": "0",
+              "identificationFromSigner": null,
+              "positionSigner": "",
+              "mailSigner": null,
+              "branch": {
+                "branchId": 1,
+                "code": "andes_principal",
+                "name": "UNIVERSIDAD DE LOS ANDES - BOGOTÁ",
+                "country": {
+                  "id": 13,
+                  "name": "Colombia",
+                  "sortName": "COL",
+                  "isoAlpha2": null,
+                  "isoNumeric": null
+                },
+                "city": {
+                  "id": 103,
+                  "name": "Bogota D.c.",
+                  "state": {
+                    "id": 49,
+                    "name": "Bogota D.c.",
+                    "dianCode": "11"
+                  },
+                  "dianCode": "11001"
+                },
+                "address": null,
+                "activeDirectory": null,
+                "parameterDirectory": null,
+                "dateCreation": 1591012800000,
+                "userCreator": "superadmin",
+                "dateUpdate": null,
+                "userUpdater": null,
+                "status": "ACTIVE"
+              },
+              "status": "ACTIVE",
+              "dateCreation": 1592931960000,
+              "userCreator": "superadmin",
+              "dateUpdate": null,
+              "userUpdate": null
+            },
+            "code": "IMEC",
+            "snies": null,
+            "costCentre": null,
+            "officialRegistration": null,
+            "officialRegistrationDate": null,
+            "practiceDuration": null,
+            "status": "ACTIVE",
+            "dateCreation": 1616946246000,
+            "userCreator": "superadmin",
+            "dateUpdate": null,
+            "userUpdater": null,
+            "programName": "INGENIERÍA MECÁNICA"
+          }
+        ],
+        "status": "ACTIVE",
+        "dateCreation": 1436642587000,
+        "userCreator": "superadmin",
+        "dateUpdate": null,
+        "userUpdater": null
+      },
+      {
+        "id": 238,
+        "code": "MATE",
+        "name": "MATEMÁTICAS",
+        "level": "PR",
+        "faculties": [
+          {
+            "program_faculty_id": 394,
+            "faculty": {
+              "faculty_id": 8,
+              "code": "CIEN",
+              "name": "CIENCIAS",
+              "authorizedSigner": null,
+              "identificationTypeSigner": null,
+              "identificationSigner": "0",
+              "identificationFromSigner": null,
+              "positionSigner": "",
+              "mailSigner": null,
+              "branch": {
+                "branchId": 1,
+                "code": "andes_principal",
+                "name": "UNIVERSIDAD DE LOS ANDES - BOGOTÁ",
+                "country": {
+                  "id": 13,
+                  "name": "Colombia",
+                  "sortName": "COL",
+                  "isoAlpha2": null,
+                  "isoNumeric": null
+                },
+                "city": {
+                  "id": 103,
+                  "name": "Bogota D.c.",
+                  "state": {
+                    "id": 49,
+                    "name": "Bogota D.c.",
+                    "dianCode": "11"
+                  },
+                  "dianCode": "11001"
+                },
+                "address": null,
+                "activeDirectory": null,
+                "parameterDirectory": null,
+                "dateCreation": 1591012800000,
+                "userCreator": "superadmin",
+                "dateUpdate": null,
+                "userUpdater": null,
+                "status": "ACTIVE"
+              },
+              "status": "ACTIVE",
+              "dateCreation": 1592931960000,
+              "userCreator": "superadmin",
+              "dateUpdate": null,
+              "userUpdate": null
+            },
+            "code": "MATE",
+            "snies": null,
+            "costCentre": null,
+            "officialRegistration": null,
+            "officialRegistrationDate": null,
+            "practiceDuration": null,
+            "status": "ACTIVE",
+            "dateCreation": 1616946233000,
+            "userCreator": "superadmin",
+            "dateUpdate": null,
+            "userUpdater": null,
+            "programName": "MATEMÁTICAS"
+          }
+        ],
+        "status": "ACTIVE",
+        "dateCreation": 1436642620000,
+        "userCreator": "superadmin",
+        "dateUpdate": null,
+        "userUpdater": null
+      },
+      {
+        "id": 138,
+        "code": "IELE",
+        "name": "INGENIERÍA ELÉCTRICA",
+        "level": "PR",
+        "faculties": [
+          {
+            "program_faculty_id": 529,
+            "faculty": {
+              "faculty_id": 16,
+              "code": "INGE",
+              "name": "INGENIERÍA",
+              "authorizedSigner": null,
+              "identificationTypeSigner": null,
+              "identificationSigner": "0",
+              "identificationFromSigner": null,
+              "positionSigner": "",
+              "mailSigner": null,
+              "branch": {
+                "branchId": 1,
+                "code": "andes_principal",
+                "name": "UNIVERSIDAD DE LOS ANDES - BOGOTÁ",
+                "country": {
+                  "id": 13,
+                  "name": "Colombia",
+                  "sortName": "COL",
+                  "isoAlpha2": null,
+                  "isoNumeric": null
+                },
+                "city": {
+                  "id": 103,
+                  "name": "Bogota D.c.",
+                  "state": {
+                    "id": 49,
+                    "name": "Bogota D.c.",
+                    "dianCode": "11"
+                  },
+                  "dianCode": "11001"
+                },
+                "address": null,
+                "activeDirectory": null,
+                "parameterDirectory": null,
+                "dateCreation": 1591012800000,
+                "userCreator": "superadmin",
+                "dateUpdate": null,
+                "userUpdater": null,
+                "status": "ACTIVE"
+              },
+              "status": "ACTIVE",
+              "dateCreation": 1592931960000,
+              "userCreator": "superadmin",
+              "dateUpdate": null,
+              "userUpdate": null
+            },
+            "code": "IELE",
+            "snies": null,
+            "costCentre": null,
+            "officialRegistration": null,
+            "officialRegistrationDate": null,
+            "practiceDuration": null,
+            "status": "ACTIVE",
+            "dateCreation": 1616946246000,
+            "userCreator": "superadmin",
+            "dateUpdate": null,
+            "userUpdater": null,
+            "programName": "INGENIERÍA ELÉCTRICA"
+          }
+        ],
+        "status": "ACTIVE",
+        "dateCreation": 1436642587000,
+        "userCreator": "superadmin",
+        "dateUpdate": null,
+        "userUpdater": null
+      },
+      {
+        "id": 144,
+        "code": "ISIS",
+        "name": "INGENIERÍA DE SISTEMAS Y COMPUTACIÓN",
+        "level": "PR",
+        "faculties": [
+          {
+            "program_faculty_id": 528,
+            "faculty": {
+              "faculty_id": 16,
+              "code": "INGE",
+              "name": "INGENIERÍA",
+              "authorizedSigner": null,
+              "identificationTypeSigner": null,
+              "identificationSigner": "0",
+              "identificationFromSigner": null,
+              "positionSigner": "",
+              "mailSigner": null,
+              "branch": {
+                "branchId": 1,
+                "code": "andes_principal",
+                "name": "UNIVERSIDAD DE LOS ANDES - BOGOTÁ",
+                "country": {
+                  "id": 13,
+                  "name": "Colombia",
+                  "sortName": "COL",
+                  "isoAlpha2": null,
+                  "isoNumeric": null
+                },
+                "city": {
+                  "id": 103,
+                  "name": "Bogota D.c.",
+                  "state": {
+                    "id": 49,
+                    "name": "Bogota D.c.",
+                    "dianCode": "11"
+                  },
+                  "dianCode": "11001"
+                },
+                "address": null,
+                "activeDirectory": null,
+                "parameterDirectory": null,
+                "dateCreation": 1591012800000,
+                "userCreator": "superadmin",
+                "dateUpdate": null,
+                "userUpdater": null,
+                "status": "ACTIVE"
+              },
+              "status": "ACTIVE",
+              "dateCreation": 1592931960000,
+              "userCreator": "superadmin",
+              "dateUpdate": null,
+              "userUpdate": null
+            },
+            "code": "ISIS",
+            "snies": null,
+            "costCentre": null,
+            "officialRegistration": null,
+            "officialRegistrationDate": null,
+            "practiceDuration": null,
+            "status": "ACTIVE",
+            "dateCreation": 1616946246000,
+            "userCreator": "superadmin",
+            "dateUpdate": null,
+            "userUpdater": null,
+            "programName": "INGENIERÍA DE SISTEMAS Y COMPUTACIÓN"
+          }
+        ],
+        "status": "ACTIVE",
+        "dateCreation": 1436642587000,
+        "userCreator": "superadmin",
+        "dateUpdate": null,
+        "userUpdater": null
+      },
+      {
+        "id": 137,
+        "code": "IELC",
+        "name": "INGENIERÍA ELECTRÓNICA",
+        "level": "PR",
+        "faculties": [
+          {
+            "program_faculty_id": 530,
+            "faculty": {
+              "faculty_id": 16,
+              "code": "INGE",
+              "name": "INGENIERÍA",
+              "authorizedSigner": null,
+              "identificationTypeSigner": null,
+              "identificationSigner": "0",
+              "identificationFromSigner": null,
+              "positionSigner": "",
+              "mailSigner": null,
+              "branch": {
+                "branchId": 1,
+                "code": "andes_principal",
+                "name": "UNIVERSIDAD DE LOS ANDES - BOGOTÁ",
+                "country": {
+                  "id": 13,
+                  "name": "Colombia",
+                  "sortName": "COL",
+                  "isoAlpha2": null,
+                  "isoNumeric": null
+                },
+                "city": {
+                  "id": 103,
+                  "name": "Bogota D.c.",
+                  "state": {
+                    "id": 49,
+                    "name": "Bogota D.c.",
+                    "dianCode": "11"
+                  },
+                  "dianCode": "11001"
+                },
+                "address": null,
+                "activeDirectory": null,
+                "parameterDirectory": null,
+                "dateCreation": 1591012800000,
+                "userCreator": "superadmin",
+                "dateUpdate": null,
+                "userUpdater": null,
+                "status": "ACTIVE"
+              },
+              "status": "ACTIVE",
+              "dateCreation": 1592931960000,
+              "userCreator": "superadmin",
+              "dateUpdate": null,
+              "userUpdate": null
+            },
+            "code": "IELC",
+            "snies": null,
+            "costCentre": null,
+            "officialRegistration": null,
+            "officialRegistrationDate": null,
+            "practiceDuration": null,
+            "status": "ACTIVE",
+            "dateCreation": 1616946246000,
+            "userCreator": "superadmin",
+            "dateUpdate": null,
+            "userUpdater": null,
+            "programName": "INGENIERÍA ELECTRÓNICA"
+          }
+        ],
+        "status": "ACTIVE",
+        "dateCreation": 1436642587000,
+        "userCreator": "superadmin",
+        "dateUpdate": null,
+        "userUpdater": null
+      },
+      {
+        "id": 116,
+        "code": "ECON",
+        "name": "ECONOMÍA",
+        "level": "PR",
+        "faculties": [
+          {
+            "program_faculty_id": 472,
+            "faculty": {
+              "faculty_id": 11,
+              "code": "ECOA",
+              "name": "ECONOMÍA",
+              "authorizedSigner": null,
+              "identificationTypeSigner": null,
+              "identificationSigner": "0",
+              "identificationFromSigner": null,
+              "positionSigner": "",
+              "mailSigner": null,
+              "branch": {
+                "branchId": 1,
+                "code": "andes_principal",
+                "name": "UNIVERSIDAD DE LOS ANDES - BOGOTÁ",
+                "country": {
+                  "id": 13,
+                  "name": "Colombia",
+                  "sortName": "COL",
+                  "isoAlpha2": null,
+                  "isoNumeric": null
+                },
+                "city": {
+                  "id": 103,
+                  "name": "Bogota D.c.",
+                  "state": {
+                    "id": 49,
+                    "name": "Bogota D.c.",
+                    "dianCode": "11"
+                  },
+                  "dianCode": "11001"
+                },
+                "address": null,
+                "activeDirectory": null,
+                "parameterDirectory": null,
+                "dateCreation": 1591012800000,
+                "userCreator": "superadmin",
+                "dateUpdate": null,
+                "userUpdater": null,
+                "status": "ACTIVE"
+              },
+              "status": "ACTIVE",
+              "dateCreation": 1592931960000,
+              "userCreator": "superadmin",
+              "dateUpdate": null,
+              "userUpdate": null
+            },
+            "code": "ECON",
+            "snies": null,
+            "costCentre": null,
+            "officialRegistration": null,
+            "officialRegistrationDate": null,
+            "practiceDuration": null,
+            "status": "ACTIVE",
+            "dateCreation": 1616946241000,
+            "userCreator": "superadmin",
+            "dateUpdate": null,
+            "userUpdater": null,
+            "programName": "ECONOMÍA"
+          }
+        ],
+        "status": "ACTIVE",
+        "dateCreation": 1436642586000,
+        "userCreator": "superadmin",
+        "dateUpdate": null,
+        "userUpdater": null
+      }
+    ],
+    "functions": "Buscamos un perfil que tenga conocimientos en programación, que pueda entender muy bien el negocio. Va a tener la oportunidad de participar en la construcción de procesos ETL, procesos de automatización para empezar a realizar análisis exploratorios.",
+    "additionalRequirements": "- SQL\n- Python\n- Plus: AWS o GCP",
+    "numberOfVacant": 2,
+    "userCreator": "julianaocampo@habi.co",
+    "dateCreation": 1661272813000,
+    "userUpdater": null,
+    "dateUpdate": null,
+    "dateActivate": 1662582357000,
+    "status": "ACTIVED",
+    "opportunityType": "ACADEMIC_PRACTICE",
+    "branch": {
+      "branchId": 1,
+      "code": "andes_principal",
+      "name": "UNIVERSIDAD DE LOS ANDES - BOGOTÁ",
+      "country": {
+        "id": 13,
+        "name": "Colombia",
+        "sortName": "COL",
+        "isoAlpha2": null,
+        "isoNumeric": null
+      },
+      "city": {
+        "id": 103,
+        "name": "Bogota D.c.",
+        "state": {
+          "id": 49,
+          "name": "Bogota D.c.",
+          "dianCode": "11"
+        },
+        "dianCode": "11001"
+      },
+      "address": null,
+      "activeDirectory": null,
+      "parameterDirectory": null,
+      "dateCreation": 1591012800000,
+      "userCreator": "superadmin",
+      "dateUpdate": null,
+      "userUpdater": null,
+      "status": "ACTIVE"
+    },
+    "fatherId": null,
+    "dedicationHours": 47.9,
+    "dedicationAP": {
+      "id": 52001,
+      "value": "Tiempo Completo (100%)",
+      "valueEn": null,
+      "valueForCalculations": "1",
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    "ordinaryWeeklySession": 48,
+    "period": {
+      "id": 22,
+      "period": "202310",
+      "dateInitialPeriodAcademicSystem": "2023-01-23",
+      "dateFinalPeriodAcademicSystem": "2023-05-27",
+      "dateInitialStartAcademicPractice": "2022-12-14",
+      "dateFinalStartAcademicPractice": "2023-01-25",
+      "dateMaxEndPractice": "2023-07-25",
+      "dateInitialApprobationPractice": "2022-08-29",
+      "dateFinalApprobationPractice": "2023-01-25",
+      "dateInitialLegalizationPractice": "2022-10-17",
+      "dateFinalLegalizationPractice": "2023-03-31",
+      "dateInitialPublishOffer": "2022-08-22",
+      "dateFinalPublishOffer": "2023-01-11",
+      "status": "ACTIVE"
+    },
+    "contractTypeAP": {
+      "id": 52549,
+      "value": "Vinculación Formativa",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": "Figura de vinculación creada por la Ley 1780 de 2016 y desarrollada en la Resolución 3546 de 2018. Debe contener: 1) NIT y Representante Legal Empresa, 2) Datos Identificación Estudiante, 3) Duración, Fechas, Remuneración y ARL, 4) Actividades a Desarrollar, 5) Derechos y obligaciones, y 6) Firmas. Descargue el modelo en <a href=\"https://drive.google.com/open?id=18xHVjiDiG6_evXp6XFylRrtefeY7aMai\" target=\"_blank\">https://drive.google.com/open?id=18xHVjiDiG6_evXp6XFylRrtefeY7aMai</a>",
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    "executionType": {
+      "id": 53324,
+      "value": "Semipresencial",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    "jobArea": {
+      "id": 54563,
+      "value": "Investigación",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    "isPaid": true,
+    "salaryRangeMinAP": 1500000,
+    "requiredDocument": null,
+    "docRequired": false,
+    "requiredDocument2": null,
+    "requiredDocument3": null,
+    "extraInfoUrl": "https://forms.gle/vZnGThd9FrNBiHb67",
+    "salaryRangeMaxAP": 1500000,
+    "companyNameIsConfidentialityAP": false,
+    "salaryRangeIsConfidentialityAP": false,
+    "languagesAP": [
+      {
+        "id": 29228,
+        "language": {
+          "id": 52021,
+          "value": "Inglés",
+          "valueEn": "English",
+          "valueForCalculations": null,
+          "valueForReports": null,
+          "description": null,
+          "status": "ACTIVE",
+          "parentId": null
+        },
+        "level": {
+          "id": 52026,
+          "value": "Básico",
+          "valueEn": null,
+          "valueForCalculations": null,
+          "valueForReports": null,
+          "description": null,
+          "status": "ACTIVE",
+          "parentId": null
+        }
+      }
+    ],
+    "countryAP": {
+      "id": 13,
+      "name": "Colombia",
+      "sortName": "COL",
+      "isoAlpha2": null,
+      "isoNumeric": null
+    },
+    "citiesAP": [
+      {
+        "id": 103,
+        "name": "Bogota D.c.",
+        "state": {
+          "id": 49,
+          "name": "Bogota D.c.",
+          "dianCode": "11"
+        },
+        "dianCode": "11001"
+      }
+    ],
+    "isPsychology": false,
+    "arl": null,
+    "psychologistInCharge": null,
+    "dateStartPractice": "2023-01-10",
+    "dateEndPractice": "2023-07-07",
+    "cumulativeAverage": null,
+    "emotionalSalary": [
+      {
+        "id": 52659,
+        "value": "Capacitación y formación personal – no relacionada con trabajo o cargo",
+        "valueEn": null,
+        "valueForCalculations": null,
+        "valueForReports": null,
+        "description": null,
+        "status": "ACTIVE",
+        "parentId": null
+      },
+      {
+        "id": 52661,
+        "value": "Acciones de reconocimiento",
+        "valueEn": null,
+        "valueForCalculations": null,
+        "valueForReports": null,
+        "description": null,
+        "status": "ACTIVE",
+        "parentId": null
+      },
+      {
+        "id": 52646,
+        "value": "Horario Flexible",
+        "valueEn": null,
+        "valueForCalculations": null,
+        "valueForReports": null,
+        "description": null,
+        "status": "ACTIVE",
+        "parentId": null
+      },
+      {
+        "id": 52665,
+        "value": "Pet Friendly – poder llevar la mascota",
+        "valueEn": null,
+        "valueForCalculations": null,
+        "valueForReports": null,
+        "description": null,
+        "status": "ACTIVE",
+        "parentId": null
+      }
+    ],
+    "skills": [
+      {
+        "id": 51,
+        "name": "Pensamiento analítico",
+        "nameEn": "Analytical thinking"
+      },
+      {
+        "id": 17,
+        "name": "Trabajo en equipo",
+        "nameEn": "Teamwork"
+      }
+    ],
+    "minHorary": null,
+    "maxHorary": null,
+    "horaryText": "Lunes a viernes: 8:00am a 5:30pm\nHorario flexible",
+    "typeOcupation": {
+      "id": 52967,
+      "value": "Agentes inmobiliarios",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": "3334",
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    "disability": true,
+    "pendingPrograms": null
+  },
+  "states": [
+    "CLOSED",
+    "EXPIRED"
+  ],
+  "reasonForReject": [
+    {
+      "id": 52453,
+      "value": "Of. Laboral: Aún no contamos con egresados del programa académico requerido",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52454,
+      "value": "Of. Laboral: La oferta laboral ya se encuentra registrada",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52455,
+      "value": "Of. Laboral: El perfil es diferente al de los egresados de la Universidad",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52458,
+      "value": "Of. Laboral: Tipo de oferta no corresponde a oferta laboral",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52459,
+      "value": "Of. Laboral: La oferta no tiene funciones",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52460,
+      "value": "Of. Laboral: El salario no corresponde a la experiencia solicitada",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52625,
+      "value": "Of. Laboral: La oferta no tiene requisitos ni competencias",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52626,
+      "value": "Of. Laboral: No coincide el nivel del cargo con la experiencia solicitada",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52627,
+      "value": "Of. Laboral: Por solicitud de la empresa",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52628,
+      "value": "Of. Laboral: La información del salario no es clara",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52629,
+      "value": "Of. Laboral: La empresa no cumple disposión legal vigente",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52691,
+      "value": "Of. Laboral: Proceso suspendido por COVID19",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52536,
+      "value": "Of. Práctica: Funciones no alineadas con programa académico",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52537,
+      "value": "Of. Práctica: No cumple condiciones de prácticas obligatorias",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52538,
+      "value": "Of. Práctica: Tipo de práctica no gestionado por CTP",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52539,
+      "value": "Of. Práctica: Tipo de oportunidad no corresponde a práctica",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52619,
+      "value": "Of. Práctica: Patrocinio inferior a salario mínimo",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52620,
+      "value": "Of. Práctica: Vacante ya cubierta",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52621,
+      "value": "Of. Práctica: Vacante cancelada",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52622,
+      "value": "Of. Práctica: Republicación errónea",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52623,
+      "value": "Of. Práctica: Unidad académica no aprueba antes de fecha máxima de publicación",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52461,
+      "value": "Of. Práctica: Funciones insuficientes",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52695,
+      "value": "Of. Práctica: Proceso suspendido por COVID19",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    },
+    {
+      "id": 52624,
+      "value": "Otro",
+      "valueEn": null,
+      "valueForCalculations": null,
+      "valueForReports": null,
+      "description": null,
+      "status": "ACTIVE",
+      "parentId": null
+    }
+  ],
+  "statesHistory": [
+    {
+      "id": 224844,
+      "statusBefore": "ACTIVED",
+      "statusAfter": "ACTIVED",
+      "reason": null,
+      "date": 1662582357000,
+      "contract": null,
+      "contracted": null,
+      "whyNoContracted": null,
+      "userCreator": "pregecon@uniandes.edu.co",
+      "comment": null
+    },
+    {
+      "id": 224454,
+      "statusBefore": "ACTIVED",
+      "statusAfter": "ACTIVED",
+      "reason": null,
+      "date": 1662508835000,
+      "contract": null,
+      "contracted": null,
+      "whyNoContracted": null,
+      "userCreator": "coordinacioniele@uniandes.edu.co",
+      "comment": null
+    },
+    {
+      "id": 224452,
+      "statusBefore": "ACTIVED",
+      "statusAfter": "ACTIVED",
+      "reason": null,
+      "date": 1662508765000,
+      "contract": null,
+      "contracted": null,
+      "whyNoContracted": null,
+      "userCreator": "coordinacioniele@uniandes.edu.co",
+      "comment": null
+    },
+    {
+      "id": 222817,
+      "statusBefore": "ACTIVED",
+      "statusAfter": "ACTIVED",
+      "reason": null,
+      "date": 1661991621000,
+      "contract": null,
+      "contracted": null,
+      "whyNoContracted": null,
+      "userCreator": "pregisis@uniandes.edu.co",
+      "comment": null
+    },
+    {
+      "id": 222608,
+      "statusBefore": "ACTIVED",
+      "statusAfter": "ACTIVED",
+      "reason": null,
+      "date": 1661960283000,
+      "contract": null,
+      "contracted": null,
+      "whyNoContracted": null,
+      "userCreator": "practicasimec@uniandes.edu.co",
+      "comment": null
+    },
+    {
+      "id": 222200,
+      "statusBefore": "REVIEW",
+      "statusAfter": "ACTIVED",
+      "reason": null,
+      "date": 1661786008000,
+      "contract": null,
+      "contracted": null,
+      "whyNoContracted": null,
+      "userCreator": "practicasctp3@uniandes.edu.co",
+      "comment": null
+    },
+    {
+      "id": 221596,
+      "statusBefore": "CREATED",
+      "statusAfter": "REVIEW",
+      "reason": "",
+      "date": 1661283654000,
+      "contract": false,
+      "contracted": "",
+      "whyNoContracted": "",
+      "userCreator": "practicasctp3@uniandes.edu.co",
+      "comment": null
+    },
+    {
+      "id": 221547,
+      "statusBefore": "NO_EXIST",
+      "statusAfter": "CREATED",
+      "reason": null,
+      "date": 1661272813000,
+      "contract": false,
+      "contracted": null,
+      "whyNoContracted": "created",
+      "userCreator": "julianaocampo@habi.co",
+      "comment": null
+    }
+  ],
+  "alreadyApplied": false,
+  "countApplication": 4
+}

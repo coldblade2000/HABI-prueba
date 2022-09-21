@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10d544a6-a7ad-41bc-a707-660978f999d6" name="Changes" comment="Probé un algoritmo nuevo para la pregunta 1, pero al probarlo resulto no ser mejor, debido a que tiene una peor complejidad">
-      <change afterPath="$PROJECT_DIR$/Pregunta2/2.1.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pregunta2/test/createdatabase.sql" afterDir="false" />
+    <list default="true" id="10d544a6-a7ad-41bc-a707-660978f999d6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pregunta2/2.1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Pregunta2/2.1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/identifier.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/identifier.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663691557220</updated>
       <workItem from="1663691584061" duration="1000" />
-      <workItem from="1663691599735" duration="8266000" />
+      <workItem from="1663691599735" duration="9853000" />
     </task>
     <task id="LOCAL-00001" summary="Acabe Pregunta 1, utilizando LinkedHashMap">
       <created>1663694450721</created>
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663699583827</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Progreso en trabajo de pregunta 2">
+      <created>1663699969856</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663699969856</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Acabe Pregunta 1, utilizando LinkedHashMap" />
     <MESSAGE value="Probé un algoritmo nuevo para la pregunta 1, pero al probarlo resulto no ser mejor, debido a que tiene una peor complejidad" />
-    <option name="LAST_COMMIT_MESSAGE" value="Probé un algoritmo nuevo para la pregunta 1, pero al probarlo resulto no ser mejor, debido a que tiene una peor complejidad" />
+    <MESSAGE value="Progreso en trabajo de pregunta 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Progreso en trabajo de pregunta 2" />
   </component>
 </project>

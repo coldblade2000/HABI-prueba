@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10d544a6-a7ad-41bc-a707-660978f999d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Pregunta2/2.2.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pregunta2/2.1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Pregunta2/2.1.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/identifier.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/identifier.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "11"
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/Users/diego/IdeaProjects/HABI-prueba/Pregunta2"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -48,6 +49,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\IdeaProjects\HABI-prueba\Pregunta2" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Pregunta1">
     <configuration name="Pregunta1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pregunta1" />
@@ -75,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663691557220</updated>
       <workItem from="1663691584061" duration="1000" />
-      <workItem from="1663691599735" duration="9853000" />
+      <workItem from="1663691599735" duration="10946000" />
     </task>
     <task id="LOCAL-00001" summary="Acabe Pregunta 1, utilizando LinkedHashMap">
       <created>1663694450721</created>
@@ -98,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663699969856</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Acabe la 2.1">
+      <created>1663781306575</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663781306575</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +121,7 @@
     <MESSAGE value="Acabe Pregunta 1, utilizando LinkedHashMap" />
     <MESSAGE value="Probé un algoritmo nuevo para la pregunta 1, pero al probarlo resulto no ser mejor, debido a que tiene una peor complejidad" />
     <MESSAGE value="Progreso en trabajo de pregunta 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Progreso en trabajo de pregunta 2" />
+    <MESSAGE value="Acabe la 2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Acabe la 2.1" />
   </component>
 </project>

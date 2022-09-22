@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10d544a6-a7ad-41bc-a707-660978f999d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pregunta2/2.3.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pregunta2/2.4.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pregunta2/2.5.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pregunta2/test/test.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ca034fb6-f845-40ff-8e23-6e715c6ac5ed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ca034fb6-f845-40ff-8e23-6e715c6ac5ed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pregunta2/2.6.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pregunta2/2.2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Pregunta2/2.2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pregunta2/test/test.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Pregunta2/test/test.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/identifier.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/identifier.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663805316119</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Acabe 2.4 y 2.5">
+      <created>1663816366455</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663816366455</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +176,7 @@
     <MESSAGE value="Acabe la 2.1" />
     <MESSAGE value="Acabe 2.2" />
     <MESSAGE value="Pequeño cambio para organizar 2.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pequeño cambio para organizar 2.2" />
+    <MESSAGE value="Acabe 2.4 y 2.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Acabe 2.4 y 2.5" />
   </component>
 </project>

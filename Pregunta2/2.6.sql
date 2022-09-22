@@ -1,7 +1,7 @@
 -- Los bebedores que unicamente frecuentan las
 -- tiendas que unicamente sirven alguna bebida que le gusta
 
-SELECT *
+SELECT bebedor.cedula, bebedor.nombre
 FROM "table-BEBEDOR" bebedor
 JOIN "table-FRECUENTA" frec1 on bebedor.cedula = frec1.cedula
 JOIN "table-GUSTA" gusta1 on bebedor.cedula = gusta1.cedula

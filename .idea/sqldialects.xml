@@ -2,5 +2,8 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/Pregunta2/2.1.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Pregunta2/2.2.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Pregunta2/test/createdatabase.sql" dialect="GenericSQL" />
+    <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>

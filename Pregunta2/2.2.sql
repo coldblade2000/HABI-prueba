@@ -1,5 +1,5 @@
 -- Las fuentes de soda que no son frecuentadas Andres Camilo Restrepo.
-SELECT *
+SELECT tienda."codigo-tienda", tienda."nombre-tienda"
 FROM "table-TIENDA" as tienda
 JOIN "table-VENDE" vende
      on tienda."codigo-tienda" = vende."codigo-tienda"

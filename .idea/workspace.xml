@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10d544a6-a7ad-41bc-a707-660978f999d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pregunta 3/Pregunta3/Pregunta3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pregunta 3/Pregunta3/ejemplo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pregunta 3/Pregunta3/urlscraper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pregunta2/2.3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pregunta2/2.4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pregunta2/2.5.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pregunta2/test/test.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ca034fb6-f845-40ff-8e23-6e715c6ac5ed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ca034fb6-f845-40ff-8e23-6e715c6ac5ed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pregunta2/2.2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Pregunta2/2.2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/identifier.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/identifier.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,37 +37,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/diego/IdeaProjects/HABI-prueba/Pregunta2&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/Users/diego/IntelliJProjects/HABI-prueba/Pregunta2",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;sqlite&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
     ],
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;SQLite&quot;,
-      &quot;TEXT&quot;
+    "RunConfigurationTargetLRU": [
+      "ca034fb6-f845-40ff-8e23-6e715c6ac5ed/schema/\"main\""
+    ],
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "SQLite",
+      "TEXT"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\IntelliJProjects\HABI-prueba\Pregunta2" />
       <recent name="C:\Users\diego\IdeaProjects\HABI-prueba\Pregunta2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\diego\IdeaProjects\HABI-prueba\Pregunta 3\Pregunta3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pregunta1">
+  <component name="RunManager" selected="Database Script.2.2.sql">
     <configuration name="Pregunta1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pregunta1" />
       <module name="HABI-prueba" />
@@ -71,11 +79,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="2.2.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/Pregunta2/2.2.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="ca034fb6-f845-40ff-8e23-6e715c6ac5ed" namespace="schema/&quot;main&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="All in req" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/src/req.http">
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Application.Pregunta1" />
+      <item itemvalue="Database Script.2.2.sql" />
+      <item itemvalue="HTTP Request.All in req" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Database Script.2.2.sql" />
         <item itemvalue="Application.Pregunta1" />
         <item itemvalue="HTTP Request.All in req" />
       </list>
@@ -134,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663782623935</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Pequeño cambio para organizar 2.2">
+      <created>1663805316119</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663805316119</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

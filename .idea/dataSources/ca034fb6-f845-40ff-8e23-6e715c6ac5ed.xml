@@ -1396,12 +1396,14 @@
       <RefTableName>table-TIENDA</RefTableName>
     </foreign-key>
     <index id="505" parent="485" name="sqlite_autoindex_table-FRECUENTA_1">
-      <ColNames>cedula</ColNames>
+      <ColNames>cedula
+codigo-tienda</ColNames>
       <NameSurrogate>1</NameSurrogate>
       <Unique>1</Unique>
     </index>
     <key id="506" parent="485">
-      <ColNames>cedula</ColNames>
+      <ColNames>cedula
+codigo-tienda</ColNames>
       <Primary>1</Primary>
       <UnderlyingIndexName>sqlite_autoindex_table-FRECUENTA_1</UnderlyingIndexName>
     </key>
@@ -1421,12 +1423,14 @@
       <RefTableName>table-BEBIDA</RefTableName>
     </foreign-key>
     <index id="510" parent="486" name="sqlite_autoindex_table-GUSTA_1">
-      <ColNames>cedula</ColNames>
+      <ColNames>cedula
+codigo-bebida</ColNames>
       <NameSurrogate>1</NameSurrogate>
       <Unique>1</Unique>
     </index>
     <key id="511" parent="486">
-      <ColNames>cedula</ColNames>
+      <ColNames>cedula
+codigo-bebida</ColNames>
       <Primary>1</Primary>
       <UnderlyingIndexName>sqlite_autoindex_table-GUSTA_1</UnderlyingIndexName>
     </key>

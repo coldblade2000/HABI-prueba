@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10d544a6-a7ad-41bc-a707-660978f999d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pregunta2/2.6.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pregunta2/test/test.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Pregunta2/test/test.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/identifier.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/identifier.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pregunta3/Pregunta3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Pregunta3/Pregunta3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pregunta3/urlscraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pregunta3/urlscraper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +40,8 @@
     "jdk.selected.JAVA_MODULE": "11",
     "last_opened_file_path": "C:/Users/diego/IntelliJProjects/HABI-prueba/Pregunta2",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -66,7 +65,7 @@
       <recent name="C:\Users\diego\IdeaProjects\HABI-prueba\Pregunta 3\Pregunta3" />
     </key>
   </component>
-  <component name="RunManager" selected="Database Script.2.2.sql">
+  <component name="RunManager" selected="Python.urlscraper">
     <configuration name="Pregunta1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pregunta1" />
       <module name="HABI-prueba" />
@@ -83,13 +82,37 @@
     <configuration name="All in req" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/src/req.http">
       <method v="2" />
     </configuration>
+    <configuration name="urlscraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pregunta3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pregunta3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pregunta3/urlscraper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Application.Pregunta1" />
       <item itemvalue="Database Script.2.2.sql" />
       <item itemvalue="HTTP Request.All in req" />
+      <item itemvalue="Python.urlscraper" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.urlscraper" />
         <item itemvalue="Database Script.2.2.sql" />
         <item itemvalue="Application.Pregunta1" />
         <item itemvalue="HTTP Request.All in req" />
@@ -163,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663816366455</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Acabe 2.6">
+      <created>1663820138388</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663820138388</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +207,10 @@
     <MESSAGE value="Acabe 2.2" />
     <MESSAGE value="Pequeño cambio para organizar 2.2" />
     <MESSAGE value="Acabe 2.4 y 2.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Acabe 2.4 y 2.5" />
+    <MESSAGE value="Acabe 2.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Acabe 2.6" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HABI_prueba$urlscraper.coverage" NAME="urlscraper Coverage Results" MODIFIED="1663822492702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pregunta3" />
   </component>
 </project>
